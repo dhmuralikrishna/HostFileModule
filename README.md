@@ -8,4 +8,4 @@ Valdiate
 
 # Publish
 
-Publish-Module -Name HostFile -NuGetApiKey <key>
+Publish-Module -Name HostFile -NuGetApiKey [key]
