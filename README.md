@@ -4,3 +4,8 @@ Add
 Delete
 Check
 Valdiate
+
+
+# Publish
+
+Publish-Module -Name HostFile -NuGetApiKey <key>
